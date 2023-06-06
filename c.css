@@ -1,0 +1,36 @@
+/*Fahad Mohammed
+03/10/21
+part c*/
+
+
+body {
+    background-color: #62ebc2; /* this is the backgroung color for the web page*/ 
+    border-radius: 5px;/*this is for the radius of the box*/
+    font-family:Arial, Helvetica, sans-serif, Georgia ;/* this is the fonts used on the web page*/ 
+    color:rgb(0, 0, 0);  /*This is the color for the rext*/
+    font-weight:bold; /*This turns the font to bold*/
+    font-size: 18px;
+    text-align: center;    
+  }
+  h1 {/*this is for aligning h1 to the center and makes it look nice*/
+    text-decoration: underline ;
+    text-decoration-style: solid ;
+    margin-top: 2%;
+} 
+  img { /*this sets the image margin and whidth*/
+    margin: 5px;
+    border: 5px solid 000080;
+    width: 150px;
+  }
+  button {
+    font-weight: bold; /*This turns the font to bold*/
+    padding: 2px; /*This gives the padding to the button*/
+    font-size: 14px;/* this is the fonts used on the button*/
+    border-radius: 5px;/*this is for the radius of the button box*/
+    margin: 8px ;
+}
+ 
+button:hover
+{
+    background-color:rgb(148, 208, 216) ;/* this is the backgroung color for the button when you hover your mouse on the button*/ 
+}
